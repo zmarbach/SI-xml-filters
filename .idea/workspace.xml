@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15ad8c6d-70c7-49f4-b622-66ef2dc1bdb9" name="Default Changelist" comment="" />
+    <list default="true" id="15ad8c6d-70c7-49f4-b622-66ef2dc1bdb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_xml_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_ws_spring_xml_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3-xml-filters-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab3-xml-filters-solution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -16,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bafosZ1uRiWjPw7kZrf0282EL6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +37,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab4-transformer-solution" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -31,6 +46,26 @@
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration name="Startup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.intertech.lab3.Startup" />
+      <module name="lab3-xml-filters-solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.intertech.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Startup" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -58,21 +93,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1609" height="268" key="GridCell.Tab.0.bottom" timestamp="1588876222594">
+    <state x="563" y="233" key="FileChooserDialogImpl" timestamp="1589832395976">
       <screen x="0" y="0" width="1664" height="1069" />
     </state>
-    <state width="1609" height="268" key="GridCell.Tab.0.bottom/0.0.1664.1069/-1920.264.1920.1040@0.0.1664.1069" timestamp="1588876222594" />
-    <state width="1609" height="268" key="GridCell.Tab.0.center" timestamp="1588876222594">
+    <state x="563" y="233" key="FileChooserDialogImpl/0.0.1664.1069/-1920.264.1920.1040@0.0.1664.1069" timestamp="1589832395976" />
+    <state width="1609" height="268" key="GridCell.Tab.0.bottom" timestamp="1589833186487">
       <screen x="0" y="0" width="1664" height="1069" />
     </state>
-    <state width="1609" height="268" key="GridCell.Tab.0.center/0.0.1664.1069/-1920.264.1920.1040@0.0.1664.1069" timestamp="1588876222594" />
-    <state width="1609" height="268" key="GridCell.Tab.0.left" timestamp="1588876222593">
+    <state width="1609" height="268" key="GridCell.Tab.0.bottom/0.0.1664.1069/-1920.264.1920.1040@0.0.1664.1069" timestamp="1589833186487" />
+    <state width="1609" height="268" key="GridCell.Tab.0.center" timestamp="1589833186487">
       <screen x="0" y="0" width="1664" height="1069" />
     </state>
-    <state width="1609" height="268" key="GridCell.Tab.0.left/0.0.1664.1069/-1920.264.1920.1040@0.0.1664.1069" timestamp="1588876222593" />
-    <state width="1609" height="268" key="GridCell.Tab.0.right" timestamp="1588876222594">
+    <state width="1609" height="268" key="GridCell.Tab.0.center/0.0.1664.1069/-1920.264.1920.1040@0.0.1664.1069" timestamp="1589833186487" />
+    <state width="1609" height="268" key="GridCell.Tab.0.left" timestamp="1589833186487">
       <screen x="0" y="0" width="1664" height="1069" />
     </state>
-    <state width="1609" height="268" key="GridCell.Tab.0.right/0.0.1664.1069/-1920.264.1920.1040@0.0.1664.1069" timestamp="1588876222594" />
+    <state width="1609" height="268" key="GridCell.Tab.0.left/0.0.1664.1069/-1920.264.1920.1040@0.0.1664.1069" timestamp="1589833186487" />
+    <state width="1609" height="268" key="GridCell.Tab.0.right" timestamp="1589833186487">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state width="1609" height="268" key="GridCell.Tab.0.right/0.0.1664.1069/-1920.264.1920.1040@0.0.1664.1069" timestamp="1589833186487" />
   </component>
 </project>
